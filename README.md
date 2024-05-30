@@ -1,4 +1,4 @@
-# YoutubeDoznloader
+# YoutubeDownloader
 Youtube downloader project
 Ce projet est une application de téléchargement de vidéos YouTube développée en Python,
 utilisant le framework CustomTkinter pour l'interface utilisateur.
