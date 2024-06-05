@@ -20,7 +20,7 @@ customtkinter.set_default_color_theme("blue")
 
 #fenêtre
 root = customtkinter.CTk()
-root.title("YouTube Video Downloader V1.0")
+root.title("YouTube Video Downloader V1.2")
 root.geometry("500x300")
 
 #function
